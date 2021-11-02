@@ -18,7 +18,7 @@ npm run serve
 npm run build
 ```
 
-## Error
+# Error
 分支合并主干
 Git push 时 fatal: unable to access 'https://github.com/****/**.git/': OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to github.com:443 
 解决方法 ：取消http代理：
