@@ -32,3 +32,5 @@ $ git config --global --unset https.proxy
 ```
 $ env GIT_SSL_NO_VERIFY=true 
 ```
+方案二(彻底)
+在hexo项目的根目录下的config.yml文件中把仓库链接地址由https修改为ssh的地址。
